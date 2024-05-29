@@ -1,4 +1,3 @@
-![HelloWorld-img](https://github.com/dav1-fer/dav1-fer/assets/160598395/fd229c80-0e50-4527-aa63-69fa3159e134)
 # Hello there! 👋
 Welcome to my GitHub profile!
 I'm David Fernandes, a web-designer and web-developer.
